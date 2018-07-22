@@ -1,0 +1,26 @@
+new
+empty 1
+begin
+  next0
+exit
+size 0
+push_front 5
+front 5
+back 5
+push_back 7
+front 5
+back 7
+count 7 1
+count 6 0
+pop_back
+count 7 0
+begin
+  value 5
+  next
+  next0
+exit
+erase 5 1
+empty 1
+size 0
+delete
+summary
